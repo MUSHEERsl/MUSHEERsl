@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MUSHEERsl
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning python 
+- 💞️ I’m looking to collaborate on game engineering 
+- 📫 How to reach me on gmail aashifmusheer0@gmail.com
